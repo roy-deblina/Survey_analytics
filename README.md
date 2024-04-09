@@ -42,7 +42,8 @@ The primary objective of this project is to analyze survey data to uncover key i
 
 - Tree Map created to understand the country of survey takers. For that country of living added to the category and count of country of living added to the values and category labels set on to understand each part well.
 
-  ![Survey-visual](https://github.com/roy-deblina/Survey_analytics/assets/164593876/c33b0adc-d2f4-43dd-8478-8266c264ce8c)
+  ![Survey-visual](https://github.com/roy-deblina/Survey_analytics/assets/164593876/34d38b5b-aa58-4e0a-a74a-3269c2e3e75d)
+
 
 
 ## Insights
